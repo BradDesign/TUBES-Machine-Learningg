@@ -1,5 +1,7 @@
 # 🌱 Proyek Deteksi Risiko Stunting dengan Self-Organizing Map (SOM)
-
+Isni Khairul Fahmi - 1206230009
+Misara - 1206230059
+Muhammad Rizky Libradi - 1206230069
 ## 📘 Latar Belakang
 Stunting dan wasting merupakan dua indikator serius dalam menilai status gizi anak. Dengan semakin meluasnya data kesehatan anak, muncul kebutuhan untuk memahami dan memetakan kondisi ini secara efisien.
 
